@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang=en>
+  <head>
+    <meta charset=utf-8>
+    <title>{{site.title}}</title>
+
+    <!-- Twitter Card -->
+    <meta name=twitter:card content=summary>
+    <meta name=twitter:title content="{{site.title}}">
+    <meta name=twitter:description content="{{site.description}}">
+    <!-- TODO <meta name=twitter:image content="{{site.logo}}"> -->
+
+    <!-- OpenGraph -->
+    <meta name=og:type content=website>
+    <meta name=og:title content="{{site.title}}">
+    <meta name=og:description content="{{site.description}}">
+    <meta name=og:site content="{{site.title}}">
+    <!-- TODO <meta name=og:image content="{{site.logo}}"> -->
+
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <link rel=stylesheet href=normalize.css>
+    <link rel=stylesheet href=styles.css>
+  </head>
+  <body>
+    <main>
+{{content}}
+    </main>
+  </body>
+</html>
