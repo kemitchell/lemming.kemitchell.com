@@ -22,6 +22,13 @@
     <link rel=stylesheet href=styles.css>
   </head>
   <body>
+    <header>
+      <h1>{{site.title}}</h1>
+      <p>{{site.description}}</p>
+    </header>
+    <nav>
+{% include toc.html html=content h_min=1 %}
+    </nav>
     <main>
 {{content}}
     </main>

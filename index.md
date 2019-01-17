@@ -1,3 +1,3 @@
-# {{site.title}}
+## Conspicuous does not mean ALL CAPS.
 
-{{site.description}}
+<a id="conspicuous" href="#conspicuous">Link to this section</a>
