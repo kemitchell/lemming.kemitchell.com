@@ -1,0 +1,58 @@
+html {
+  background: white;
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+body {
+  margin: 2rem;
+}
+
+header, main, footer {
+  max-width: 30rem;
+  margin: 1rem auto;
+}
+
+main {
+  padding-bottom: 5rem;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: darkgreen;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.available, .unavailable, .info {
+  border-radius: 0.25rem;
+  padding: 1rem;
+}
+
+.available {
+  background: #dff0d8;
+}
+
+.unavailable {
+  background: #f2dede;
+}
+
+.info {
+  background: #d9edf7;
+}
+
+h1, h2, h3, h4 {
+  margin-top: 3rem;
+}
+
+footer {
+  margin-top: 3rem;
+  border-top: 1px solid black;
+}
+
+nav {
+  margin: 3rem 0;
+}
