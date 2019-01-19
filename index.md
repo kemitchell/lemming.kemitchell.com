@@ -29,3 +29,11 @@
 [California Evidence Code 622](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=622.&lawCode=EVID):
 
 > The facts recited in a written instrument are conclusively presumed to be true as between the parties thereto, or their successors in interest; but this rule does not apply to the recital of a consideration.
+
+## Redundant digits cause trouble.
+
+<a id="numerals" href="#numerals">Link to this section</a>
+
+[_A Manual of Style for Contract Drafting_ 4e](https://www.americanbar.org/products/inv/book/297140045/) 14.9:
+
+> [U]sing words and digits is more of a problem than the issue it was intended to fix---digit mistakes.
