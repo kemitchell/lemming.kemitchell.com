@@ -8,7 +8,7 @@
 
 > Don't assume caps are either necessary or sufficient to satisfy a law requiring "conspicuous" text.
 
-[UCC 1-201(b)(10)](https://www.law.cornell.edu/ucc/1/1-201#1-201b10) explicitly mentions more easier-to-read alternatives.
+[UCC 1-201(b)(10)](https://www.law.cornell.edu/ucc/1/1-201#1-201b10) explicitly mentions easier-to-read alternatives.
 
 ## Recitals of consideration don't work.
 
