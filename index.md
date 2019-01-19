@@ -2,7 +2,7 @@
 
 <a id="conspicuous" href="#conspicuous">Link to this section</a>
 
-[American General Finance, Inc. v. Bassett, 285 F.3d 882 (9th Cir. 2002)](https://www.courtlistener.com/opinion/777159/in-re-darlene-m-bassett-debtor-american-general-finance-inc-v-darlene/#p18):
+[American General Finance, Inc. v. Bassett (9th Cir. 2002)](https://www.courtlistener.com/opinion/777159/in-re-darlene-m-bassett-debtor-american-general-finance-inc-v-darlene/#p18):
 
 > Lawyers who think their caps lock keys are instant "make conspicuous" buttons are deluded.
 
