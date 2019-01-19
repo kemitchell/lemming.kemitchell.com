@@ -5,3 +5,4 @@ description: authoritative retorts to common, pointless legalisms
 logo: https://lemminglaw.com/lemmings.svg
 exclude:
   - README.md
+  - Makefile

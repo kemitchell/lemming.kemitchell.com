@@ -10,7 +10,7 @@
 
 > Don't assume caps are either necessary or sufficient to satisfy a law requiring "conspicuous" text.
 
-UCC 1-201(10):
+[UCC 1-201(b)(10)](https://www.law.cornell.edu/ucc/1/1-201#1-201b10):
 
 > "Conspicuous", with reference to a term, means so written, displayed, or presented that a reasonable person against which it is to operate ought to have noticed it. ... Conspicuous terms include the following:
 >
