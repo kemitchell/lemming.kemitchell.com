@@ -32,8 +32,9 @@ h1, h2, h3, h4 {
 }
 
 footer {
-  margin-top: 3rem;
   border-top: 1px solid black;
+  margin-top: 2rem;
+  text-align: right;
 }
 
 nav ul, nav ul li {
