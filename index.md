@@ -18,7 +18,7 @@
 
 [California Evidence Code 622](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=622.&lawCode=EVID):
 
-> The facts recited in a written instrument are conclusively presumed to be true as between the parties thereto, or their successors in interest; but this rule does not apply to the recital of a consideration.
+> The facts recited in a written instrument are conclusively presumed to be true as between the parties thereto, or their successors in interest; _but this rule does not apply to the recital of a consideration_.  [Emphasis added.]
 
 ## Redundant digits cause trouble.
 
