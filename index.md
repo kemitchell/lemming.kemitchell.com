@@ -6,6 +6,10 @@
 
 > Lawyers who think their caps lock keys are instant "make conspicuous" buttons are deluded.
 
+[Typography for Lawyers 1e](https://typographyforlawyers.com), page 89:
+
+> Don't assume caps are either necessary or sufficient to satisfy a law requiring "conspicuous" text.
+
 UCC 1-201(10):
 
 > "Conspicuous", with reference to a term, means so written, displayed, or presented that a reasonable person against which it is to operate ought to have noticed it. ... Conspicuous terms include the following:
