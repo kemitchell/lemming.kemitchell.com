@@ -46,3 +46,7 @@ nav ul, nav ul li {
 .lemming {
   width: 77%;
 }
+
+:target {
+   background-color: #ffa;
+}
