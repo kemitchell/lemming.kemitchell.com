@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Conspicuous does not mean ALL CAPS.
 
 [American General Finance, Inc. v. Bassett (9th Cir. 2002)](https://www.courtlistener.com/opinion/777159/in-re-darlene-m-bassett-debtor-american-general-finance-inc-v-darlene/#p18):
