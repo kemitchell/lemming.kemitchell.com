@@ -25,3 +25,9 @@
 [_A Manual of Style for Contract Drafting_ 4e](https://www.americanbar.org/products/inv/book/297140045/) 14.9:
 
 > [U]sing words and digits is more of a problem than the issue it was intended to fix---digit mistakes.
+
+## Different "efforts" standards aren't clear at all.
+
+[_A Manual of Style for Contract Drafting_ 4e](https://www.americanbar.org/products/inv/book/297140045/) 8.2:
+
+> The notion that different _efforts_ standards impose obligations of different levels of onerousness is an illusion.
