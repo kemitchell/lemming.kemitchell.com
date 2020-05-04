@@ -1,0 +1,3 @@
+#!/bin/sh
+site=lemminglaw.com
+scp ./index.html ./*.svg ./*.png "$site:/var/www/$site"
