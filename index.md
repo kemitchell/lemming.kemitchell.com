@@ -35,3 +35,21 @@ layout: default
 [_A Manual of Style for Contract Drafting_ 4e](https://www.americanbar.org/products/inv/book/297140045/) 8.2:
 
 > The notion that different _efforts_ standards impose obligations of different levels of onerousness is an illusion.
+
+## Warranty disclaimers don't have to run on.
+
+[UCC 2-316](https://www.law.cornell.edu/ucc/2/2-316) (2) and (3):
+
+<blockquote>
+<ol class="arabicInParentheses">
+  <li value="2">
+    <p><mark>Subject to subsection (3)</mark>, to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability&hellip;and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.&hellip;</p>
+  </li>
+  <li value="3">
+    <p>Notwithstanding subsection (2)</p>
+    <ol class="lowerAlphaInParentheses">
+      <li><mark>unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like "as is", "with all faults" or other language which in common understanding calls the buyer'sattention to the exclusion of warranties and makes plain that there is no implied warranty</mark>&hellip;</li>
+    </ol>
+  </li>
+</ol>
+</blockquote>
